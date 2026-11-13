@@ -1,6 +1,6 @@
 export const RELEASE = {
   app: 'tanstack-taskboard',
-  version: 'zdd4-v1',
+  version: 'zdd4-v2',
   marker: 'tanstack-taskboard OK',
   build: '2026-09-20',
 } as const
